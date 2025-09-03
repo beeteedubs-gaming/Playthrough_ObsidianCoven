@@ -7,7 +7,6 @@
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
-    <li>ddjy.medievalgeneassemblergenepacktranslate</li>
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
     <li>ludeon.rimworld.odyssey</li>
@@ -44,9 +43,7 @@
     <li>tidal.morevanilla.textures</li>
     <li>botchjob.medievalfantasyrareresources</li>
     <li>dankpyon.medievalgenepacks</li>
-    <li>ddjy.medievalgeneassembler</li>
     <li>amch.eragon.hcgenefabrication</li>
-    <li>unrl.medievalgenefabrication</li>
     <li>sarg.alphagenes</li>
     <li>verily.medievalgenepacksalphagenes</li>
     <li>rince.gaulishgojuice</li>
@@ -269,12 +266,10 @@
     <li>rimsenal.hair</li>
     <li>neronix17.retexture.rimsenalrimhair</li>
     <li>rgbmods.misc.autismplus</li>
-    <li>archangel.replantsptrees</li>
     <li>relicrituaryascension.1trickpwnyta</li>
     <li>rimworld.randomcoughdrop.geneassistant</li>
     <li>lvlvbnh.raisespecialistlimit</li>
     <li>hellrevenger.quickarea</li>
-    <li>ferny.progressionworlds</li>
     <li>neptimus7.progressrenderer</li>
     <li>scherub.planningextended</li>
     <li>owlchemist.perspectivepaths</li>
@@ -311,9 +306,11 @@
     <li>dsp.halituisamaricanous</li>
     <li>neronix17.forgottenrealms</li>
     <li>canon.titularroyalty</li>
-    <li>btd.remix.mashups</li>
     <li>mlie.choosebiomecommonality</li>
     <li>nals.customportraits</li>
+    <li>edern.norandomapparelonideoedit</li>
+    <li>ddjy.medievalgeneassembler</li>
+    <li>btd.remix.mashups</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Numbers.Numbers_Settings">
-		<numbersPawnTableDefs />
+		<numbersPawnTableDefs>
+			<li>Numbers_MainTable,NumbersTable3900,LabelShortWithIcon,MedicalCare,Numbers_Backstory,Numbers_RimWorld_NeedDef_Mood,Numbers_Equipment,Numbers_RimWorld_SkillDef_Melee,Numbers_RimWorld_SkillDef_Shooting,Numbers_RimWorld_SkillDef_Social,Numbers_RimWorld_SkillDef_Construction,Numbers_RimWorld_StatDef_PsychicSensitivity,Numbers_RimWorld_StatDef_ShootingAccuracyPawn,Numbers_RimWorld_StatDef_AimingDelayFactor,Numbers_RimWorld_RecordDef_Kills,Numbers_DiseaseProgress,RemainingSpace,</li>
+			<li>Numbers_MainTable,Default,LabelShortWithIcon,MedicalCare,Numbers_Backstory,Numbers_RimWorld_NeedDef_Mood,Numbers_Equipment,Numbers_RimWorld_SkillDef_Melee,Numbers_RimWorld_SkillDef_Shooting,Numbers_RimWorld_SkillDef_Social,Numbers_RimWorld_SkillDef_Construction,Numbers_RimWorld_StatDef_PsychicSensitivity,Numbers_RimWorld_StatDef_ShootingAccuracyPawn,Numbers_RimWorld_StatDef_AimingDelayFactor,Numbers_RimWorld_RecordDef_Kills,Numbers_DiseaseProgress,RemainingSpace,</li>
+		</numbersPawnTableDefs>
 	</ModSettings>
 </SettingsBlock>

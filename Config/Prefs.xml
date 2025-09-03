@@ -21,7 +21,7 @@
   <backgroundExpansionId>ludeon.rimworld.odyssey</backgroundExpansionId>
   <randomBackground>False</randomBackground>
   <showWeaponsUnderPortraitMode>Always</showWeaponsUnderPortraitMode>
-  <dotHighlightDisplayMode>HighlightAll</dotHighlightDisplayMode>
+  <dotHighlightDisplayMode>None</dotHighlightDisplayMode>
   <highlightStyleMode>Silhouettes</highlightStyleMode>
   <visibleMood>True</visibleMood>
   <twelveHourClock>False</twelveHourClock>
