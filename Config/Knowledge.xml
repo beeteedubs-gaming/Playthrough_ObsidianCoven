@@ -31,7 +31,7 @@
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
-      <value>0</value>
+      <value>0.4</value>
     </li>
     <li>
       <key>BuildOrbitalTradeBeacon</key>
@@ -43,7 +43,7 @@
     </li>
     <li>
       <key>BillsTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>OpeningComms</key>
@@ -67,7 +67,7 @@
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugBurning</key>
@@ -79,7 +79,7 @@
     </li>
     <li>
       <key>QueueOrders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Shelves</key>
@@ -107,7 +107,7 @@
     </li>
     <li>
       <key>Stockpiles</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Forbidding</key>
@@ -115,15 +115,15 @@
     </li>
     <li>
       <key>GrowingFood</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EquippingWeapons</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Alerts</key>
-      <value>0.8240009</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mining</key>
@@ -159,11 +159,11 @@
     </li>
     <li>
       <key>StorageTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
@@ -175,11 +175,11 @@
     </li>
     <li>
       <key>HostilityResponse</key>
-      <value>0</value>
+      <value>0.4</value>
     </li>
     <li>
       <key>AllowedAreas</key>
-      <value>0</value>
+      <value>0.4</value>
     </li>
     <li>
       <key>MedicalOperations</key>
@@ -187,7 +187,7 @@
     </li>
     <li>
       <key>TimeAssignments</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ManualWorkPriorities</key>
@@ -375,11 +375,11 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
-      <value>0</value>
+      <value>0.1</value>
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>
-      <value>0</value>
+      <value>0.4</value>
     </li>
     <li>
       <key>Concept_SidearmsMissing</key>
