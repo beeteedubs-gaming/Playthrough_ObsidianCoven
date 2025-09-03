@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="JobInBar.Settings">
+		<CacheRefreshRate>1000</CacheRefreshRate>
+		<OnlyDrawCustomJobTitles>True</OnlyDrawCustomJobTitles>
+		<JobLabelVerticalOffset>0</JobLabelVerticalOffset>
+		<OffsetEquippedExtra>-6</OffsetEquippedExtra>
+		<MinColonistBarScale>0.75999999</MinColonistBarScale>
+		<DefaultJobLabelColor>RGBA(1.000, 1.000, 1.000, 0.749)</DefaultJobLabelColor>
+		<CurrentTaskLabelColor>RGBA(1.000, 0.800, 0.400, 1.000)</CurrentTaskLabelColor>
+		<DrawLabelOnlyOnHover>True</DrawLabelOnlyOnHover>
+		<RoleColorOnlyIfAbilityAvailable>True</RoleColorOnlyIfAbilityAvailable>
+		<RoyalTitleColor>RGBA(0.851, 0.851, 0.749, 1.000)</RoyalTitleColor>
+		<DisabledPatchCategories />
+	</ModSettings>
+</SettingsBlock>

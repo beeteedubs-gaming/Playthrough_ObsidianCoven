@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TabulaRasa.TabulaRasaSettings">
+		<raceSpawningSettings>
+			<keys />
+			<values />
+		</raceSpawningSettings>
+		<raceSpawningWeights>
+			<keys />
+			<values />
+		</raceSpawningWeights>
+		<markedAsSeen />
+		<empireHostilityFixedFactions>
+			<keys>
+				<li>PlayerColony</li>
+				<li>PlayerTribe</li>
+				<li>ResearchExpedition</li>
+				<li>GravshipCrew</li>
+				<li>BS_PlayerTribeXenoPlus</li>
+				<li>BS_PlayerColonyXenoPlus</li>
+				<li>VFEM2_PlayerKingdom</li>
+				<li>DankPyon_PlayerKingdom</li>
+				<li>DankPyon_LoneWolf</li>
+				<li>DankPyon_MercenaryCompany</li>
+				<li>Outland_PlayerVathun</li>
+				<li>Outland_GoblinoidPlayerColony</li>
+				<li>Outland_GoblinoidPlayerTribe</li>
+				<li>Outland_MotzPlayerColony</li>
+				<li>Outland_MotzPlayerTribe</li>
+				<li>Outland_PlayerEmpire</li>
+				<li>DankPyon_LoneRoxKnight</li>
+				<li>BotchJob_DivineOrderPlayerFaction</li>
+				<li>BotchJob_ProfanedPlayerFaction</li>
+				<li>DevDesigner_WoodElvesFaction_Player</li>
+				<li>DevDesigner_HighElvesFaction_Player</li>
+				<li>DevDesigner_DarkElvesFaction_Player</li>
+				<li>VFEC_NewEmpire</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</empireHostilityFixedFactions>
+	</ModSettings>
+</SettingsBlock>

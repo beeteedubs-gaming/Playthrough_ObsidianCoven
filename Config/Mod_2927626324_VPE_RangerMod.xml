@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VPE_Ranger.VPE_RangerSetting">
+		<isSplitShotUseBurstCount>True</isSplitShotUseBurstCount>
+	</ModSettings>
+</SettingsBlock>
