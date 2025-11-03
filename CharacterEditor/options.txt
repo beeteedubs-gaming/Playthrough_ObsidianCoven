@@ -1,0 +1,9 @@
+1|1|0|0|0|1|1|1|0|1|1|0|1|0|1|1|1|1|1|1|1|0|0|
+800|100|10|90|3|
+None|None|
+
+
+
+
+Apparel_BasicShirt,T-shirt,3,3,True,40,Fabric|Leathery,MaxHitPoints!100|Flammability!1|DeteriorationRate!2|Beauty!-3|WorkToMake!1600|Mass!0.25|StuffEffectMultiplierArmor!0.2|StuffEffectMultiplierInsulation_Cold!0.22|StuffEffectMultiplierInsulation_Heat!0.1|EquipDelay!1.5,,,,Clothing|BasicClothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,,,,,,,,,,,,,ComplexClothing,,0,0,OnSkin,Torso|Shoulders,IndustrialBasic,Worker|Soldier,1;
+
